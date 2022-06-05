@@ -7,7 +7,7 @@ global.owner = [
   ['+1 760-891-4335'],
   ['+62 852-7282-1627'],
   ['17608914335', 'Papah-Chan', true],
-  ['6285272821627', 'Moca', true]
+  ['6288220195739', 'DS', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -73,8 +73,8 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281268416245'
-global.nomorown = '17608914335'
+global.nomorbot = '6285786530741'
+global.nomorown = '6288220195739'
 global.namebot = 'Sad-Bot'
 global.nameown = 'Papah-Chan'
 
@@ -106,8 +106,8 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 global.hsquere = '⛶', '❏', '⫹⫺'
 
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'Ara Bot'
+global.author = 'DS Host'
 
 global.multiplier = 69 // The higher, The harder levelup
 
